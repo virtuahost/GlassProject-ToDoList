@@ -1,0 +1,2 @@
+C:\virtua's stuff\GlassToDoDatabase\app\build\intermediates\classes\debug
+C:\virtua's stuff\GlassToDoDatabase\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-7fd1a14de4b1cb7abc22e12ee6024784c239a370.jar
